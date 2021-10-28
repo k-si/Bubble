@@ -11,5 +11,5 @@ vue + gin + gorm
 
 `go run main.go`
 
-![https://github.com/k-si/Bubble/show-img/bubble.png]()
+![https://github.com/k-si/Bubble/blob/master/show-img/bubble.png]()
 
