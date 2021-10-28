@@ -1,7 +1,7 @@
 # Bubble
-golang web 开发练手项目，记事本功能。原视频链接：https://www.bilibili.com/video/BV1gJ411p7xC?p=1
+vue + gin + gorm，golang web 开发练手项目，记事本功能。
 
-vue + gin + gorm
+原视频链接：https://www.bilibili.com/video/BV1gJ411p7xC?p=1
 
 `create database bubble`
 
@@ -11,5 +11,7 @@ vue + gin + gorm
 
 `go run main.go`
 
-![https://ksir-oss.oss-cn-beijing.aliyuncs.com/github/bubble/bubble.png]()
+  ![Image text](https://ksir-oss.oss-cn-beijing.aliyuncs.com/github/bubble/bubble.png)
+
+
 
